@@ -1,5 +1,7 @@
 ## 我的博客
 
+博客地址：http://404NotFound20.github.io
+
 根据开源项目构建，项目地址：http://jekyllcn.com/docs/home/
 
 
