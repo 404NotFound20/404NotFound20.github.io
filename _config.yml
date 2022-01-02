@@ -1,8 +1,8 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "404NotFound20"
+author: "Ender"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
-lang: "en"
+lang: "zh"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
